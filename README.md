@@ -1,2 +1,2 @@
-# PE-COFF-Generator
-PE/COFF generator for Windows.
+# Media2WinCOFF
+Convert any file to PE/COFF format for Windows OS.
