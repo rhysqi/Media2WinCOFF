@@ -9,7 +9,7 @@ Since llvm-objcopy only provide ELF, HEX, and BINARY format only. So, i need to 
 
 # Usage
 ```
-Media2WinCOFF.exe <filename, ....>
+Media2WinCOFF filename.*
 ```
 
 # Technologies
